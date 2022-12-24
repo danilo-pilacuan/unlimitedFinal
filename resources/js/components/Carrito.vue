@@ -417,8 +417,6 @@ watch: {
                 console.log("error")
                 console.log(error)
             })
-
-
     },
     guardarDir()
         {
